@@ -1,0 +1,15 @@
+h2 {
+  color: blue;
+}
+.header {
+  background-color: aqua;
+  margin-left: 50px;
+  padding-left: 20px;
+}
+.title {
+  color: red;
+  background-color: bisque;
+}
+#section {
+  background-color: salmon;
+}
