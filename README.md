@@ -1,3 +1,5 @@
+[![Araiva Cover github image](https://raw.githubusercontent.com/viruskizz/viruskizz-myutils/main/Araiva%20Cover.png)](https://www.linkedin.com/in/araiva)
+
 ## Hi there 👋
 
 ### Thanks for visiting! 😄
