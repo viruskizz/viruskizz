@@ -28,11 +28,13 @@ I have a variety of interests:
 
 <p align="center">
   
-	<a href="https://github.com/viruskizz/">
-		<img alt="My Github" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
-	</a>
-  <a href="Araiva#1851">
+	
+  <a href="https://discordapp.com/users/306980438004727808">
 		<img alt="My Discord" src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" />
+	</a>
+	
+<a href="https://github.com/viruskizz/">
+		<img alt="My Github" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
 	</a>
   <a href="https://www.facebook.com/araiva.viruskizz/">
 		<img alt="My facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
