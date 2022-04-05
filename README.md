@@ -10,12 +10,14 @@ I'm studying at 👨🏻‍💻 [42 Bangkok](https://www.42bangkok.com/).
 
 I have a variety of interests:
 
-* 🎓  Graduated from Aerospace Engineer
-* ❤️  Founder of Good Geek Club
+* 🎓  Graduated from [Aerospace Engineer at Kasetsart University]
+* ❤️  Founder of [Good Geek Club]
 * ✏️  worked with DevOps 
 * 🎮  Gamer is my life
 * 🕹️  Final Fantasy Fan
 * ⚽  Love to play football
+
+You can also meet me in Eozear World [Araiva Leonhart]
 
 ... love to meet challenging thing 🤓
 
@@ -48,3 +50,8 @@ I have a variety of interests:
 </p>
 
 ---
+
+[Aerospace Engineer at Kasetsart University]: https://eu.finalfantasyxiv.com/lodestone/character/34434658/
+[Good Geek Club]: https://www.facebook.com/good.geek.community
+[Araiva Leonhart]: https://eu.finalfantasyxiv.com/lodestone/character/34434658/
+[Araiva#1851]: https://discordapp.com/users/306980438004727808
