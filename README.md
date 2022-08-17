@@ -25,6 +25,13 @@ You can also meet me in Eozear World [Araiva Leonhart]
   
 ---
 
+<div align="center">
+	<a href="https://github.com/oakoudad/badge42">
+		<img src="https://badge.mediaplus.ma/colorfulwaves/tsomsa?1337Badge=off" alt="tsomsa's 42 stats" />
+	</a>
+</div>
+<br>
+
 | [![viruskizz's GitHub stats](https://github-readme-stats.vercel.app/api?username=viruskizz&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=nightowl)](https://github.com/viruskizz?tab=repositories) | [![viruskizz's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viruskizz&layout=compact&hide_border=true&theme=nightowl)](https://github.com/viruskizz?tab=repositories) |
 |:-:|:-:|
 
