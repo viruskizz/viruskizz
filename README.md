@@ -46,10 +46,10 @@ You can also meet me in Eozear World [Araiva Leonhart]
 
 ### 42 Bangkok Projects 💻
 
-<img alt="My Github" src="https://raw.githubusercontent.com/viruskizz/viruskizz-myutils/main/badge00-entrando-em-orbita.png" />
+<img alt="Enter orbit" src="./42_badges/phase_onee.png" />
 <br>
 <a href="https://github.com/viruskizz/42bangkok-libft">
-	<img alt="viruskizz push_swap" src="https://raw.githubusercontent.com/viruskizz/viruskizz-myutils/main/badge00-libftm.png" />
+	<img alt="viruskizz push_swap" src="./42_badges/libftm.png" />
 </a>
 <a href="https://github.com/viruskizz/42bangkok-Born2beroot">
 	<img alt="viruskizz push_swap" src="https://raw.githubusercontent.com/viruskizz/viruskizz-myutils/main/badge01-born2beroot.png" />
@@ -112,8 +112,6 @@ You can also meet me in Eozear World [Araiva Leonhart]
 </a>
 
 </div>
-
-
 
 <!-- Connection -->
 <br>
