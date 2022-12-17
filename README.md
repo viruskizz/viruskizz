@@ -1,12 +1,6 @@
 <!--
 [![Araiva Cover github image](https://raw.githubusercontent.com/viruskizz/viruskizz-myutils/main/Araiva%20Cover.png)](https://www.linkedin.com/in/araiva) -->
 
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
 <!-- My profile coverage -->
 
 ## Hi there 👋
@@ -52,36 +46,36 @@ You can also meet me in Eozear World [Araiva Leonhart]
 	<img alt="viruskizz push_swap" src="./42_badges/libftm.png" />
 </a>
 <a href="https://github.com/viruskizz/42bangkok-Born2beroot">
-	<img alt="viruskizz push_swap" src="https://raw.githubusercontent.com/viruskizz/viruskizz-myutils/main/badge01-born2beroot.png" />
+	<img alt="viruskizz push_swap" src="./42_badges/born2berootm.png" />
 </a>
 <a href="https://github.com/viruskizz/42bangkok-ft_printf">
-	<img alt="viruskizz push_swap" src="https://raw.githubusercontent.com/viruskizz/viruskizz-myutils/main/badge01-ft_printfm.png" />
+	<img alt="viruskizz push_swap" src="./42_badges/ft_printfm.png" />
 </a>
 <a href="https://github.com/viruskizz/42bangkok-get_next_line">
-	<img alt="viruskizz push_swap" src="https://raw.githubusercontent.com/viruskizz/viruskizz-myutils/main/badge01-get_next_line.png" />
+	<img alt="viruskizz push_swap" src="./42_badges/get_next_linem.png" />
 </a>
 <br>
 <a href="https://github.com/viruskizz/42bangkok-minitalk">
-	<img alt="viruskizz minitalk" src="https://raw.githubusercontent.com/viruskizz/viruskizz-myutils/main/badge02-minitalk.png" />
+	<img alt="viruskizz minitalk" src="./42_badges/minitalkm.png" />
 </a>
 <a href="https://github.com/viruskizz/42bangkok-so_long">
-	<img alt="viruskizz so_long" src="https://raw.githubusercontent.com/viruskizz/viruskizz-myutils/main/badge02-so_long.png" />
+	<img alt="viruskizz so_long" src="./42_badges/so_longm.png" />
 </a>
 <a href="https://github.com/viruskizz/42bangkok-push_swap">
-	<img alt="viruskizz push_swap" src="https://raw.githubusercontent.com/viruskizz/viruskizz-myutils/main/badge02-push_swapm.png" />
+	<img alt="viruskizz push_swap" src="./42_badges/push_swapm.png" />
 </a>
 <br>
 <a href="https://github.com/viruskizz/42bangkok-philosophers">
-	<img alt="viruskizz philosophers" src="https://raw.githubusercontent.com/viruskizz/viruskizz-myutils/main/badge03-philosophersm.png" />
+	<img alt="viruskizz philosophers" src="./42_badges/philosophersm.png" />
 </a>
 <a href="https://github.com/viruskizz/42bangkok_minishell">
-	<img alt="viruskizz minishell" src="https://raw.githubusercontent.com/viruskizz/viruskizz-myutils/main/badge03-minishell.png" />
+	<img alt="viruskizz minishell" src="./42_badges/minishellm.png" />
 </a>
 <a href="https://github.com/viruskizz/42bangkok-netpractice">
-	<img alt="viruskizz netpractice" src="https://raw.githubusercontent.com/viruskizz/viruskizz-myutils/main/badge04-netpractice.png" />
+	<img alt="viruskizz netpractice" src="./42_badges/netpracticee.png" />
 </a>
 <a href="https://github.com/viruskizz/42bangkok-cpp_module">
-	<img alt="viruskizz cpp module" src="https://raw.githubusercontent.com/viruskizz/viruskizz-myutils/main/badge04-cpp.png" />
+	<img alt="viruskizz cpp module" src="./42_badges/cppe.png" />
 </a>
 <br>
 
@@ -108,13 +102,14 @@ You can also meet me in Eozear World [Araiva Leonhart]
 <br>
 
 <a href="https://github.com/oakoudad/badge42">
-	<img src="https://badge.mediaplus.ma/colorfulwaves/tsomsa?1337Badge=off" alt="tsomsa's 42 stats" />
+	<img src="https://badge.mediaplus.ma/colorfulwaves/tsomsa?1337Badge=off&UM6P=off" alt="tsomsa's 42 stats" />
 </a>
 
 </div>
 
+---
 <!-- Connection -->
-<br>
+
 <p align="center">
 	
   <a href="https://discordapp.com/users/306980438004727808">
@@ -135,7 +130,8 @@ You can also meet me in Eozear World [Araiva Leonhart]
 	</a>
 </p>
 
----
+
+<!-- Link Referrence -->
 
 [Aerospace Engineer at Kasetsart University]: https://eu.finalfantasyxiv.com/lodestone/character/34434658/
 [Good Geek Club]: https://www.facebook.com/good.geek.community
