@@ -22,7 +22,16 @@ You can also meet me in Eozear World [Araiva Leonhart]
 ... love to meet challenging thing 🤓
 
 	42's cadets: feel free to catch me on Discord -> Araiva#1851
-  
+
+
+
+<p align="center">
+    <img alt="viruskizz's stars" src="https://img.shields.io/github/stars/viruskizz?color=blueviolet" />
+    <img alt="viruskizz's followers" src="https://img.shields.io/github/followers/viruskizz?color=blueviolet" />
+    <img alt="viruskizz's visitors" src="https://komarev.com/ghpvc/?username=viruskizz&color=blueviolet&style=flat&label=visitors" />	
+	
+</p>
+
 ---
 
 <div align="center">
