@@ -4,21 +4,63 @@ These is my code performance. These stats are tracked by [wakatime]
 
 ## 42Bangkok Project
 
-- [42Bangkok-libft]
+- [42Bangkok-push_swap]
+- [42Bangkok-minitalk]
 - [42Bangkok-so_long]
 - [42Bangkok-minishell]
+- [42Bangkok-cpp_module]
+- [42Bangkok-discovery_piscine]
+
+### push_swap
+
+**Period**: 19 Sep 2022 - 26 Oct 20222
+**Time**: 70hrs 55mins
+**Longest**: 11h 40m at 24 Oct 2022
+
+### minitalk
+
+**Period**: 19 Sep 2022 - 26 Oct 20222
+**Time**: 70hrs 55mins
+**Longest**: 11h 40m at 24 Oct 2022
+
+### so_long
+
+**Period**: 19 Sep 2022 - 26 Oct 20222
+**Time**: 70hrs 55mins
+**Longest**: 11h 40m at 24 Oct 2022
+
+<details>
+  <summary>Stat graph</summary>
+
+![42Bangkok-so_long-stat]
+
+</details>
+
+### minishell
+
+**Period**: 19 Sep 2022 - 26 Oct 20222
+**Time**: 70hrs 55mins
+**Longest**: 11h 40m at 24 Oct 2022
 
 ### cpp_module
 
-Project period: 19 Sep 2022 - 26 Oct 20222
-Total Time: 70hrs 55mins
-Longest Code Time: 11h 40m at 24 Oct 2022
+**Period**: 19 Sep 2022 - 26 Oct 20222
+**Time**: 70hrs 55mins
+**Longest**: 11h 40m at 24 Oct 2022
 
-[42Bangkok-cpp_module]
+### discovery_piscine
+
+**Period**: 19 Sep 2022 - 26 Oct 20222
+**Time**: 70hrs 55mins
+**Longest**: 11h 40m at 24 Oct 2022
+
+[42Bangkok-discovery_piscine]
 
 
 <!-- Link -->
 [wakatime]: https://wakatime.com/
+
+[42Bangkok-so_long-stat]: https://raw.githubusercontent.com/viruskizz/viruskizz/main/code-performance/screenshot/so_long-stat-short.png
 
 [42Bangkok-so_long]: https://wakatime.com/@Araiva/projects/vnrfmwtcrq?start=2022-05-18&end=2022-06-10
 
