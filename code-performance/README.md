@@ -17,11 +17,25 @@ These is my code performance. These stats are tracked by [wakatime]
 **Time**: 70hrs 55mins
 **Longest**: 11h 40m at 24 Oct 2022
 
+<details>
+  <summary>== Stat Graph ==</summary>
+
+![42Bangkok-push_swap-stat]
+
+</details>
+
 ### minitalk
 
 **Period**: 19 Sep 2022 - 26 Oct 20222
 **Time**: 70hrs 55mins
 **Longest**: 11h 40m at 24 Oct 2022
+
+<details>
+  <summary>== Stat Graph ==</summary>
+
+![42Bangkok-minitalk-stat]
+
+</details>
 
 ### so_long
 
@@ -30,7 +44,7 @@ These is my code performance. These stats are tracked by [wakatime]
 **Longest**: 11h 40m at 24 Oct 2022
 
 <details>
-  <summary>Stat graph</summary>
+  <summary>== Stat Graph ==</summary>
 
 ![42Bangkok-so_long-stat]
 
@@ -42,11 +56,25 @@ These is my code performance. These stats are tracked by [wakatime]
 **Time**: 70hrs 55mins
 **Longest**: 11h 40m at 24 Oct 2022
 
+<details>
+  <summary>== Stat Graph ==</summary>
+
+![42Bangkok-minishell-stat]
+
+</details>
+
 ### cpp_module
 
 **Period**: 19 Sep 2022 - 26 Oct 20222
 **Time**: 70hrs 55mins
 **Longest**: 11h 40m at 24 Oct 2022
+
+<details>
+  <summary>== Stat Graph ==</summary>
+
+![42Bangkok-cpp_module-stat]
+
+</details>
 
 ### discovery_piscine
 
@@ -60,16 +88,24 @@ These is my code performance. These stats are tracked by [wakatime]
 <!-- Link -->
 [wakatime]: https://wakatime.com/
 
-[42Bangkok-so_long-stat]: https://raw.githubusercontent.com/viruskizz/viruskizz/main/code-performance/screenshot/so_long-stat-short.png
-
-[42Bangkok-so_long]: https://wakatime.com/@Araiva/projects/vnrfmwtcrq?start=2022-05-18&end=2022-06-10
-
 [42Bangkok-push_swap]: https://wakatime.com/@Araiva/projects/uxcyzavqcx?start=2022-07-12&end=2022-08-19
+
+[42Bangkok-push_swap-stat]: https://raw.githubusercontent.com/viruskizz/viruskizz/main/code-performance/screenshot/push_swap-stat-short.png
 
 [42Bangkok-minitalk]: https://wakatime.com/@Araiva/projects/onugkceyqz?start=2022-03-31&end=2022-04-06
 
+[42Bangkok-minitalk-stat]: https://raw.githubusercontent.com/viruskizz/viruskizz/main/code-performance/screenshot/minitalk-stat-short.png
+
+[42Bangkok-so_long]: https://wakatime.com/@Araiva/projects/vnrfmwtcrq?start=2022-05-18&end=2022-06-10
+
+[42Bangkok-so_long-stat]: https://raw.githubusercontent.com/viruskizz/viruskizz/main/code-performance/screenshot/so_long-stat-short.png
+
 [42Bangkok-minishell]: https://wakatime.com/projects/minishell?start=2022-09-19&end=2022-10-26
 
+[42Bangkok-minishell-stat]: https://raw.githubusercontent.com/viruskizz/viruskizz/main/code-performance/screenshot/minishell-stat-short.png
+
 [42Bangkok-cpp_module]: https://wakatime.com/@Araiva/projects/tywdgklvva?start=2022-11-16&end=2022-12-18
+
+[42Bangkok-cpp_module-stat]: https://raw.githubusercontent.com/viruskizz/viruskizz/main/code-performance/screenshot/cpp_module-stat-short.png
 
 [42Bangkok-discovery_piscine]: https://wakatime.com/@Araiva/projects/rauzgrxqfz?start=2022-04-27&end=2022-05-12
