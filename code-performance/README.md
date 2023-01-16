@@ -14,14 +14,9 @@ These is my code performance. These stats are tracked by [wakatime]. The capture
 
 **Longest**: 13h 00m at 17 Jul 2022
 
-[42Bangkok-push_swap]
-
-<details>
-  <summary>== Stat Graph ==</summary>
-
 ![42Bangkok-push_swap-stat]
 
-</details>
+[42Bangkok-push_swap]
 
 ## minitalk
 
@@ -31,14 +26,9 @@ These is my code performance. These stats are tracked by [wakatime]. The capture
 
 **Longest**: 7h 36m at 3 Apr 2022
 
-[42Bangkok-minitalk]
-
-<details>
-  <summary>== Stat Graph ==</summary>
-
 ![42Bangkok-minitalk-stat]
 
-</details>
+[42Bangkok-minitalk]
 
 ## so_long
 
@@ -48,14 +38,9 @@ These is my code performance. These stats are tracked by [wakatime]. The capture
 
 **Longest**: 10h 21m at 28 May 2022
 
-[42Bangkok-so_long]
-
-<details>
-  <summary>== Stat Graph ==</summary>
-
 ![42Bangkok-so_long-stat]
 
-</details>
+[42Bangkok-so_long]
 
 ## minishell
 
@@ -65,14 +50,9 @@ These is my code performance. These stats are tracked by [wakatime]. The capture
 
 **Longest**: 11h 40m at 24 Oct 2022
 
-[42Bangkok-minishell]
-
-<details>
-  <summary>== Stat Graph ==</summary>
-
 ![42Bangkok-minishell-stat]
 
-</details>
+[42Bangkok-minishell]
 
 ## cpp_module
 
@@ -82,16 +62,12 @@ These is my code performance. These stats are tracked by [wakatime]. The capture
 
 **Longest**: 6h 44m at 20 Nov 2022
 
-[42Bangkok-cpp_module]
-
-<details>
-  <summary>== Stat Graph ==</summary>
-
 ![42Bangkok-cpp_module-stat]
 
-</details>
+[42Bangkok-cpp_module]
 
-### discovery_piscine
+
+## discovery_piscine
 
 **Period**: 28 Apr 2022 - 12 May 2022
 
@@ -99,14 +75,9 @@ These is my code performance. These stats are tracked by [wakatime]. The capture
 
 **Longest**: 9h 70m at 9 May 2022
 
-[42Bangkok-discovery_piscine]
-
-<details>
-  <summary>== Stat Graph ==</summary>
-
 ![42Bangkok-cpp_module-stat]
 
-</details>
+[42Bangkok-discovery_piscine]
 
 
 <!-- Link -->
