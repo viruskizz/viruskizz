@@ -4,6 +4,8 @@ These is my code performance. These stats are tracked by [wakatime]. The capture
 
 ## 42Bangkok Project
 
+42Bangkok is coding school that I'm studing. There's a ton of challenging project for me. I learn in deep about programing in a project. You can take a tour in my project from my Github homepage [viruskizz]
+
 ## push_swap
 
 **Period**: 24 Jun 2022 - 17 Aug 2022
@@ -108,7 +110,9 @@ These is my code performance. These stats are tracked by [wakatime]. The capture
 
 
 <!-- Link -->
+
 [wakatime]: https://wakatime.com/
+[viruskizz]: https://github.com/viruskizz/
 
 [42Bangkok-push_swap]: https://wakatime.com/@Araiva/projects/uxcyzavqcx?start=2022-07-12&end=2022-08-19
 
