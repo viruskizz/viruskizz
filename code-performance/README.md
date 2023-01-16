@@ -4,7 +4,7 @@ These is my code performance. These stats are tracked by [wakatime]. The capture
 
 ## 42Bangkok Project
 
-### push_swap
+## push_swap
 
 **Period**: 24 Jun 2022 - 17 Aug 2022
 
@@ -21,7 +21,7 @@ These is my code performance. These stats are tracked by [wakatime]. The capture
 
 </details>
 
-### minitalk
+## minitalk
 
 **Period**: 1 Apr 2022 - 5 Apr 2022
 
@@ -38,7 +38,7 @@ These is my code performance. These stats are tracked by [wakatime]. The capture
 
 </details>
 
-### so_long
+## so_long
 
 **Period**: 18 May 2022 - 8 Jun 2022
 
@@ -55,7 +55,7 @@ These is my code performance. These stats are tracked by [wakatime]. The capture
 
 </details>
 
-### minishell
+## minishell
 
 **Period**: 19 Sep 2022 - 26 Oct 2022
 
@@ -72,7 +72,7 @@ These is my code performance. These stats are tracked by [wakatime]. The capture
 
 </details>
 
-### cpp_module
+## cpp_module
 
 **Period**: 16 Nov 2022 - 18 Dec 2022
 
