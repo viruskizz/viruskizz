@@ -118,9 +118,7 @@ You can also meet me in Eozear World [Araiva Leonhart]
 
 <br>
 
-<a href="https://github.com/oakoudad/badge42">
-	<img src="https://badge.mediaplus.ma/colorfulwaves/tsomsa?1337Badge=off&UM6P=off" alt="tsomsa's 42 stats" />
-</a>
+[![tsomsa's 42 stats](https://badge42.vercel.app/api/v2/cl2qdagib001109mf8ctr4tg3/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
 
 </div>
 
