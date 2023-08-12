@@ -78,6 +78,20 @@ You can also meet me in Eozear World [Araiva Leonhart]
 	<img alt="viruskizz cpp module" src="https://raw.githubusercontent.com/viruskizz/viruskizz/main/42_badges/cppe.png" />
 </a>
 <br>
+<a href="https://github.com/viruskizz/42bangkok-miniRT">
+	<img alt="viruskizz miniRT" src="https://raw.githubusercontent.com/viruskizz/viruskizz/main/42_badges/minirtm.png" />
+</a>
+<a href="https://github.com/viruskizz/42bangkok-inception">
+	<img alt="viruskizz inception" src="https://raw.githubusercontent.com/viruskizz/viruskizz/main/42_badges/inceptionm.png" />
+</a>
+<a href="https://github.com/viruskizz/42bangkok-webserv">
+	<img alt="viruskizz webserv" src="https://raw.githubusercontent.com/viruskizz/viruskizz/main/42_badges/webservm.png" />
+</a>
+<br>
+<a href="https://github.com/viruskizz/42bangkok-ft_trancendence">
+	<img alt="viruskizz transcendence" src="https://raw.githubusercontent.com/viruskizz/viruskizz/main/42_badges/ft_transcendencee.png" />
+</a>
+<br>
 
 <details>
 <summary>More information about these 42 bangkok projects</summary>
@@ -95,7 +109,10 @@ You can also meet me in Eozear World [Araiva Leonhart]
 |  3   | [minishell]       | C        | 125% | Create a minitature shell program. Team project.                        |
 |  4   | [net_practice]    | N/A      | 100% | Solve IP addressing and network issues in a training interface.         |
 |  4   | [Cpp_Modules]     | C++      | 100% | Create a series of small C++ programs.                                  |
-|  4   | [MiniRT]          | C        | WIP  |                                                                         |
+|  4   | [MiniRT]          | C        | 115% | Create the beautiful world of Raytracing.                               |
+|  5   | [Inception]       | Linux    | 125% | Create multiple docker container to deploy your wordpress server.       |
+|  5   | [Webserv]         | C++      | WIP  | Create your own HTTP server like Ngnix                                  |
+|  6   | [ft_transcendence]| HTML,TS,SQL | WIP | Create online 2 players pingpong game.                                |
 
 </details>
 
@@ -151,8 +168,10 @@ You can also meet me in Eozear World [Araiva Leonhart]
 [minishell]: https://github.com/viruskizz/42bangkok_minishell
 [net_practice]: https://github.com/viruskizz/42bangkok-netpractice
 [Cpp_Modules]: https://github.com/viruskizz/42bangkok-cpp_module
-[miniRT]: https://github.com/viruskizz/viruskizz
-
+[miniRT]: https://github.com/viruskizz/42bangkok-miniRT
+[inception]: https://github.com/viruskizz/42bangkok-inception
+[Webserv]: https://github.com/viruskizz/42bangkok-webserv
+[ft_transcendence]: https://github.com/viruskizz/42bangkok-ft_trancendence
 
 [msTime]: https://wakatime.com/badge/user/4871f715-f781-4d1e-886c-72bdd622739c/project/d3a3be73-7e5a-455d-9f0d-009f9311e977.svg
 [msTimeLink]: https://wakatime.com/badge/user/4871f715-f781-4d1e-886c-72bdd622739c/project/d3a3be73-7e5a-455d-9f0d-009f9311e977
