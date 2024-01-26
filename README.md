@@ -88,7 +88,7 @@ You can also meet me in Eozear World [Araiva Leonhart]
 	<img alt="viruskizz webserv" src="https://raw.githubusercontent.com/viruskizz/viruskizz/main/42_badges/webservm.png" />
 </a>
 <br>
-<a href="https://github.com/viruskizz/42bangkok-ft_trancendence">
+<a href="https://github.com/viruskizz/42bangkok_ft-transcendence">
 	<img alt="viruskizz transcendence" src="https://raw.githubusercontent.com/viruskizz/viruskizz/main/42_badges/ft_transcendencee.png" />
 </a>
 <br>
@@ -111,14 +111,14 @@ You can also meet me in Eozear World [Araiva Leonhart]
 |  4   | [Cpp_Modules]     | C++      | 100% | Create a series of small C++ programs.                                  |
 |  4   | [MiniRT]          | C        | 115% | Create the beautiful world of Raytracing.                               |
 |  5   | [Inception]       | Linux    | 125% | Create multiple docker container to deploy your wordpress server.       |
-|  5   | [Webserv]         | C++      | WIP  | Create your own HTTP server like Ngnix                                  |
-|  6   | [ft_transcendence]| HTML,TS,SQL | WIP | Create online 2 players pingpong game.                                |
+|  5   | [Webserv]         | C++      | 125%  | Create your own HTTP server like Ngnix                                  |
+|  6   | [ft_transcendence]| HTML,TS,SQL | 120% | Create online 2 players pingpong game.                                |
 
 </details>
 
 <br>
 
-[![tsomsa's 42 stats](https://badge42.vercel.app/api/v2/cl2qdagib001109mf8ctr4tg3/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
+[![tsomsa's 42 stats](https://badge42.coday.fr/api/v2/clrurvrnq503601p4tyeb0zr6/stats?cursusId=21&coalitionId=208)](https://github.com/Coday-meric/badge42)
 
 </div>
 
@@ -169,7 +169,7 @@ You can also meet me in Eozear World [Araiva Leonhart]
 [miniRT]: https://github.com/viruskizz/42bangkok-miniRT
 [inception]: https://github.com/viruskizz/42bangkok-inception
 [Webserv]: https://github.com/viruskizz/42bangkok-webserv
-[ft_transcendence]: https://github.com/viruskizz/42bangkok-ft_trancendence
+[ft_transcendence]: https://github.com/viruskizz/42bangkok_ft-transcendence
 
 [msTime]: https://wakatime.com/badge/user/4871f715-f781-4d1e-886c-72bdd622739c/project/d3a3be73-7e5a-455d-9f0d-009f9311e977.svg
 [msTimeLink]: https://wakatime.com/badge/user/4871f715-f781-4d1e-886c-72bdd622739c/project/d3a3be73-7e5a-455d-9f0d-009f9311e977
